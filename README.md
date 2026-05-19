@@ -6,4 +6,3 @@
 </div>
 
 
-![Bắn pháo hoa 🎉](https://imgur.com/vHqY7eK.gif)
