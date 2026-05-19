@@ -1,5 +1,4 @@
-<img width="420" height="594" alt="veldora-removebg-preview" src="https://github.com/user-attachments/assets/9fb890a6-1339-4f4d-aaec-0ec385884fa1" /><div align="center">
-  <img width="100%" height="auto" alt="Banner" src="https://github.com/user-attachments/assets/b8e9145a-9677-46f0-8ea9-15f4f5ddadba" />
+<img width="100%" height="auto" alt="Banner" src="https://github.com/user-attachments/assets/b8e9145a-9677-46f0-8ea9-15f4f5ddadba" />
 </div>
 
 <br/>
