@@ -4,3 +4,6 @@
   <h1 style="margin-top: 15px;">👋 Chào mừng bạn đến với GitHub của tôi!</h1>
   <p><i>"Optimizing your journey, Powering your life."</i></p>
 </div>
+
+
+![Bắn pháo hoa 🎉](https://imgur.com/vHqY7eK.gif)
