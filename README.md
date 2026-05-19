@@ -3,7 +3,7 @@
 
 <br/>
 
-<img align="right" width="220" src="https://github.com/user-attachments/assets/98a4f07c-caf1-4ae2-8a2b-3d9c010f13c5" alt="Jos Avatar" style="margin-left: 20px; margin-bottom: 20px;" />
+<img align="right" width="220" src="https://github.com/user-attachments/assets/3892a06c-ea22-4e72-b1a2-07bf0e64eacf" alt="Jos Avatar" style="margin-left: 20px; margin-bottom: 20px;" />
 
 <h1>😎 I'M JOS!</h1>
 <p><i>"Optimizing your journey, Powering your life."</i></p>
@@ -16,7 +16,9 @@
   <li>💻 <b>Tech Stack:</b> React, TypeScript, Git, Vite</li>
   <li>📚 <b>Đang học thêm:</b> Tiếng Nhật và các phương pháp kiểm thử phần mềm nâng cao</li>
 </ul>
+
 <br clear="right" />
+
 
 
 
