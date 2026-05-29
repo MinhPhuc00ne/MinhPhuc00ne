@@ -8,14 +8,15 @@
 <h1>😎 I'M JOS!</h1>
 <p><i>"Optimizing your journey, Powering your life."</i></p>
 
-<p>Chào mừng bạn đến với GitHub của tôi! Dưới đây là một số thông tin về tôi:</p>
+<p>Chào mừng bạn đến với không gian sáng tạo của tôi trên GitHub!</p>
 
-<ul>
-  <li>✨ <b>Định hướng:</b> Frontend Development / Systems Analysis</li>
-  <li>🚀 <b>Dự án hiện tại:</b> Hệ thống quản lý trạm sạc xe điện (CSMS)</li>
-  <li>💻 <b>Tech Stack:</b> React, TypeScript, Git, Vite</li>
-  <li>📚 <b>Đang học thêm:</b> Tiếng Nhật và các phương pháp kiểm thử phần mềm nâng cao</li>
-</ul>
+<p>Hiện tại, tôi đang trong quá trình tái cấu trúc lại trang cá nhân và cập nhật các dự án mới. Những thông tin chi tiết về lộ trình phát triển, các sản phẩm hoàn thiện cũng như những công nghệ mà tôi đang thử nghiệm sẽ sớm được "on air" tại đây trong thời gian tới.</p>
+
+<p>Tôi luôn tin rằng mỗi dòng code đều là một bước tiến trong hành trình tối ưu hóa trải nghiệm và giải quyết các bài toán thực tế. Trong lúc đợi không gian này được làm mới hoàn toàn, bạn có thể dạo quanh các kho lưu trữ (Repositories) bên dưới để xem qua một số sản phẩm thử nghiệm của tôi nhé!</p>
+
+<blockquote>
+  ⏳ <b>Status:</b> <i>Đang cập nhật nội dung mới... Xin vui lòng quay lại sau!</i>
+</blockquote>
 
 <br clear="right" />
 
