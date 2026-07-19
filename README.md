@@ -38,7 +38,7 @@
 
 <div align="center">
 
-| Field | Tools & Frameworks |
+| Domain | Tools & Technologies |
 | :--- | :--- |
 | **Frontend** | <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css,tailwind,bootstrap" /> |
 | **Backend** | <img src="https://skillicons.dev/icons?i=nodejs,express,java,spring,python,fastapi" /> |
@@ -49,30 +49,30 @@
 
 ---
 
-### ⚡ Technical Skill Metrics
+### 🧠 Core Engineering Domains (Lĩnh Vực Chuyên Môn Trọng Tâm)
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Backend_Architecture-████████████_95%25-38BDF8?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Frontend_UI%2FUX-██████████░░_85%25-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  <br/>
-  <img src="https://img.shields.io/badge/Data_Pipelines_%26_ETL-██████████░░_88%25-FF6F00?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/DevOps_%26_Docker-████████░░░░_80%25-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-</p>
+<div align="center">
+
+| Domain | Core Focus & Solutions | Tech Highlights |
+| :--- | :--- | :--- |
+| ⚡ **Backend & Real-Time** | Microservices Architecture, RESTful APIs, WebSockets, JWT & OAuth2 Security, Rate Limiting | Node.js, Spring Boot, Express, FastAPI, WebSockets |
+| 🎨 **Frontend & Modern UX** | Single Page Apps (SPA), State Management, Responsive UI, Performance Tuning | React, Next.js, TypeScript, Tailwind CSS |
+| 📊 **Data & Analytics** | Data Pipelines (ETL), Data Cleansing & Transformation, Aggregations, Redis Caching | Python, Pandas, NumPy, PostgreSQL, MongoDB, Redis |
+| 🐳 **DevOps & Infrastructure**| Containerization, Multi-stage Builds, CI/CD Automation, Environment Management | Docker, Docker Compose, Git Flow, GitHub Actions |
+
+</div>
 
 ---
 
-### 📊 GitHub Activity & Analytics
+### 🛡️ Software Engineering Pillars (Quy Trình & Nguyên Tắc Chuẩn)
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MinhPhuc00ne&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MinhPhuc00ne&layout=compact&theme=tokyonight&hide=html,css" />
-</div>
-
-<br />
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MinhPhuc00ne&theme=tokyonight&height=300" alt="Activity Graph" />
-</div>
+<p align="center">
+  <img src="https://img.shields.io/badge/Architecture-Clean_Architecture_%7C_SOLID-blue?style=for-the-badge&logo=codeforces&logoColor=white" />
+  <img src="https://img.shields.io/badge/Security-JWT_Auth_%7C_RBAC_Access-green?style=for-the-badge&logo=auth0&logoColor=white" />
+  <br/>
+  <img src="https://img.shields.io/badge/Performance-Redis_Caching_%7C_DB_Indexing-orange?style=for-the-badge&logo=redis&logoColor=white" />
+  <img src="https://img.shields.io/badge/Deployment-Dockerized_%7C_CI%2FCD-purple?style=for-the-badge&logo=docker&logoColor=white" />
+</p>
 
 ---
 
