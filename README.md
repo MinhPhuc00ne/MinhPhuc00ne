@@ -51,13 +51,6 @@
       <br />
       <!-- Animated Tech Stack GIF -->
       <img src="https://raw.githubusercontent.com/MinhPhuc00ne/porfolio/main/src/assets/Skills_Animation_Dark.gif" alt="Technical & Ecosystem Animation" width="100%" style="border-radius: 10px;" />
-      <br /><br />
-      <!-- Game Dev & 3D Core Badges (Unity, Blender, C#, Meshy.ai) -->
-      <sub><b>🎮 Game Dev & 3D Core Stack:</b></sub><br />
-      <a href="https://unity.com/"><img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white" alt="Unity" /></a>
-      <a href="https://www.blender.org/"><img src="https://img.shields.io/badge/Blender-E87D0D?style=for-the-badge&logo=blender&logoColor=white" alt="Blender" /></a>
-      <a href="https://docs.microsoft.com/en-us/dotnet/csharp/"><img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" /></a>
-      <a href="https://www.meshy.ai/"><img src="https://img.shields.io/badge/Meshy.ai_3D_AI-7C3AED?style=for-the-badge&logo=sparkles&logoColor=white" alt="Meshy.ai" /></a>
     </td>
     <td width="42%" valign="top">
       <h3>🧠 Current Learning</h3>
@@ -75,6 +68,13 @@
 ### 🎮 Game Showcase & Projects
 
 <div align="center">
+
+<p>
+  <a href="https://unity.com/"><img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white" alt="Unity" /></a>
+  <a href="https://www.blender.org/"><img src="https://img.shields.io/badge/Blender-E87D0D?style=for-the-badge&logo=blender&logoColor=white" alt="Blender" /></a>
+  <a href="https://docs.microsoft.com/en-us/dotnet/csharp/"><img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" /></a>
+  <a href="https://www.meshy.ai/"><img src="https://img.shields.io/badge/Meshy.ai_3D_AI-7C3AED?style=for-the-badge&logo=sparkles&logoColor=white" alt="Meshy.ai" /></a>
+</p>
 
 | Game Title | Platform / Stack | Status & Play Link |
 | :--- | :--- | :--- |
