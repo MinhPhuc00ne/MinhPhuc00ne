@@ -43,19 +43,32 @@
 
 ---
 
-### 💻 Tech Stack & Ecosystem
+### 💻 Technical & Ecosystem
 
-<div align="center">
-
-| Domain | Tools & Technologies |
-| :--- | :--- |
-| **Game Dev & 3D** | <img src="https://skillicons.dev/icons?i=unity,blender,cs" /> <img src="https://img.shields.io/badge/Meshy.ai-3D_AI_Assets-7C3AED?style=flat-square&logo=sparkles&logoColor=white" /> |
-| **Frontend** | <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css,tailwind,bootstrap" /> |
-| **Backend** | <img src="https://skillicons.dev/icons?i=nodejs,express,java,spring,python,fastapi" /> |
-| **Data & DB** | <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,py" /> |
-| **DevOps & Tools** | <img src="https://skillicons.dev/icons?i=docker,git,githubactions,postman,vscode,linux" /> |
-
-</div>
+<table width="100%">
+  <tr>
+    <td width="58%" valign="top" align="center">
+      <br />
+      <!-- Animated Tech Stack GIF -->
+      <img src="./src/assets/Skills_Animation_Dark.gif" alt="Technical & Ecosystem Animation" width="100%" style="border-radius: 10px;" />
+      <br /><br />
+      <!-- Game Dev & 3D Core Badges (Unity, Blender, C#, Meshy.ai) -->
+      <sub><b>🎮 Game Dev & 3D Core Stack:</b></sub><br />
+      <a href="https://unity.com/"><img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white" alt="Unity" /></a>
+      <a href="https://www.blender.org/"><img src="https://img.shields.io/badge/Blender-E87D0D?style=for-the-badge&logo=blender&logoColor=white" alt="Blender" /></a>
+      <a href="https://docs.microsoft.com/en-us/dotnet/csharp/"><img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" /></a>
+      <a href="https://www.meshy.ai/"><img src="https://img.shields.io/badge/Meshy.ai_3D_AI-7C3AED?style=for-the-badge&logo=sparkles&logoColor=white" alt="Meshy.ai" /></a>
+    </td>
+    <td width="42%" valign="top">
+      <h3>🧠 Current Learning</h3>
+      <ul>
+        <li>Deepening my knowledge in Machine Learning and AI.</li>
+        <li>Exploring advanced React.js patterns and state management techniques.</li>
+        <li>Improving my skills in cloud computing with AWS and Azure.</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -103,6 +116,3 @@
 <div align="center">
   <sub>Designed & Crafted with ❤️ by <b>Jos Nguyen (MinhPhuc00ne)</b></sub>
 </div>
-
-
-![Uploading Skills_Animation_Dark.gif…]()
