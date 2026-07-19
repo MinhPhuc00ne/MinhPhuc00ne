@@ -103,3 +103,6 @@
 <div align="center">
   <sub>Designed & Crafted with ❤️ by <b>Jos Nguyen (MinhPhuc00ne)</b></sub>
 </div>
+
+
+![Uploading Skills_Animation_Dark.gif…]()
