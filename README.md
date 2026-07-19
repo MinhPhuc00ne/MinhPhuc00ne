@@ -11,12 +11,13 @@
 # 😎 I'M JOS!
 *“Optimizing your journey, Powering your life.”*
 
-<!-- Typing SVG -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=38BDF8&lines=Full-Stack+%26+Data+Engineer;Backend+%E2%80%A2+Frontend+%E2%80%A2+Data+Science;Building+Scalable+%26+High-Performance+Systems" alt="Typing Header" />
+<!-- Typing SVG with Game Dev included -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=38BDF8&lines=Full-Stack+%26+Data+Engineer;Game+Developer+(Unity+%E2%80%A2+Blender);Backend+%E2%80%A2+Frontend+%E2%80%A2+3D+AI+Asset;Building+Immersive+%26+High-Performance+Apps" alt="Typing Header" />
 
 <br/><br/>
 
 <p>
+  <a href="https://monkz-dct.itch.io/night-mare"><img src="https://img.shields.io/badge/Itch.io-My_Games-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white" /></a>
   <a href="mailto:phucgammer012345@gmail.com"><img src="https://img.shields.io/badge/Email-phucgammer012345%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://facebook.com/jos.nguyen.329862"><img src="https://img.shields.io/badge/Facebook-Jos%20Nguyen-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
   <img src="https://img.shields.io/badge/Studio-ICEY%20STUDIO-111827?style=for-the-badge&logo=github&logoColor=white" />
@@ -32,10 +33,24 @@
 
 | Domain | Tools & Technologies |
 | :--- | :--- |
+| **Game Dev & 3D** | <img src="https://skillicons.dev/icons?i=unity,blender,cs" /> <img src="https://img.shields.io/badge/Meshy.ai-3D_AI_Assets-7C3AED?style=flat-square&logo=sparkles&logoColor=white" /> |
 | **Frontend** | <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css,tailwind,bootstrap" /> |
 | **Backend** | <img src="https://skillicons.dev/icons?i=nodejs,express,java,spring,python,fastapi" /> |
 | **Data & DB** | <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,py" /> |
 | **DevOps & Tools** | <img src="https://skillicons.dev/icons?i=docker,git,githubactions,postman,vscode,linux" /> |
+
+</div>
+
+---
+
+### 🎮 Game Showcase & Projects
+
+<div align="center">
+
+| Game Title | Platform / Stack | Status & Play Link |
+| :--- | :--- | :--- |
+| 👁️ **NIGHT MARE** | Unity, C#, Blender, 3D Assets | <a href="https://monkz-dct.itch.io/night-mare"><img src="https://img.shields.io/badge/Play_Now-Itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white" /></a> |
+| 🕹️ **Unannounced Title** | Unity, Meshy.ai (3D AI Generation), Blender | <img src="https://img.shields.io/badge/Status-In_Development_🛠️-F59E0B?style=for-the-badge" /> |
 
 </div>
 
@@ -47,23 +62,23 @@
 
 | Domain | Core Focus & Solutions | Tech Highlights |
 | :--- | :--- | :--- |
-| ⚡ **Backend & Real-Time** | Microservices Architecture, RESTful APIs, WebSockets, JWT & OAuth2 Security | Node.js, Spring Boot, Express, FastAPI, WebSockets |
+| 🎮 **Game Development & 3D** | Gameplay Mechanics, 3D Asset Pipeline, AI-Assisted 3D Modeling, Shader & Physics | Unity, C#, Blender, Meshy.ai |
+| ⚡ **Backend & Real-Time** | Microservices Architecture, RESTful APIs, WebSockets, JWT Security | Node.js, Spring Boot, Express, FastAPI, WebSockets |
 | 🎨 **Frontend & Modern UX** | Single Page Apps (SPA), State Management, Responsive UI, Performance Tuning | React, Next.js, TypeScript, Tailwind CSS |
 | 📊 **Data & Analytics** | Data Pipelines (ETL), Data Cleansing & Transformation, Aggregations, Redis Caching | Python, Pandas, NumPy, PostgreSQL, MongoDB, Redis |
-| 🐳 **DevOps & Infrastructure**| Containerization, Multi-stage Builds, CI/CD Automation, Environment Management | Docker, Docker Compose, Git Flow, GitHub Actions |
 
 </div>
 
 ---
 
-### 🛡️ Software Engineering Pillars (Quy Trình & Nguyên Tắc Chuẩn)
+### 🛡️ Software & Game Engineering Pillars
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Architecture-Clean_Architecture_%7C_SOLID-blue?style=for-the-badge&logo=codeforces&logoColor=white" />
-  <img src="https://img.shields.io/badge/Security-JWT_Auth_%7C_RBAC_Access-green?style=for-the-badge&logo=auth0&logoColor=white" />
+  <img src="https://img.shields.io/badge/Game_Engine-Unity_C%23_%7C_Blender-FA5C5C?style=for-the-badge&logo=unity&logoColor=white" />
+  <img src="https://img.shields.io/badge/3D_AI_Pipeline-Meshy.ai_Generative-7C3AED?style=for-the-badge&logo=sparkles&logoColor=white" />
   <br/>
-  <img src="https://img.shields.io/badge/Performance-Redis_Caching_%7C_DB_Indexing-orange?style=for-the-badge&logo=redis&logoColor=white" />
-  <img src="https://img.shields.io/badge/Deployment-Dockerized_%7C_CI%2FCD-purple?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Architecture-Clean_Code_%7C_SOLID-blue?style=for-the-badge&logo=codeforces&logoColor=white" />
+  <img src="https://img.shields.io/badge/Deployment-Dockerized_%7C_Itch.io_Release-purple?style=for-the-badge&logo=itchdotio&logoColor=white" />
 </p>
 
 ---
