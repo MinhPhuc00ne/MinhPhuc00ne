@@ -50,7 +50,7 @@
     <td width="58%" valign="top" align="center">
       <br />
       <!-- Animated Tech Stack GIF -->
-      <img src="./src/assets/Skills_Animation_Dark.gif" alt="Technical & Ecosystem Animation" width="100%" style="border-radius: 10px;" />
+      <img src="https://raw.githubusercontent.com/MinhPhuc00ne/porfolio/main/src/assets/Skills_Animation_Dark.gif" alt="Technical & Ecosystem Animation" width="100%" style="border-radius: 10px;" />
       <br /><br />
       <!-- Game Dev & 3D Core Badges (Unity, Blender, C#, Meshy.ai) -->
       <sub><b>🎮 Game Dev & 3D Core Stack:</b></sub><br />
