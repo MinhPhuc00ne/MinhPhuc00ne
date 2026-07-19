@@ -26,14 +26,6 @@
 
 ---
 
-### 🏆 GitHub Achievements & Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=MinhPhuc00ne&theme=tokyonight&margin-w=10&margin-h=10&column=4" alt="GitHub Trophies" />
-</div>
-
----
-
 ### 💻 Tech Stack & Ecosystem
 
 <div align="center">
@@ -55,7 +47,7 @@
 
 | Domain | Core Focus & Solutions | Tech Highlights |
 | :--- | :--- | :--- |
-| ⚡ **Backend & Real-Time** | Microservices Architecture, RESTful APIs, WebSockets, JWT & OAuth2 Security, Rate Limiting | Node.js, Spring Boot, Express, FastAPI, WebSockets |
+| ⚡ **Backend & Real-Time** | Microservices Architecture, RESTful APIs, WebSockets, JWT & OAuth2 Security | Node.js, Spring Boot, Express, FastAPI, WebSockets |
 | 🎨 **Frontend & Modern UX** | Single Page Apps (SPA), State Management, Responsive UI, Performance Tuning | React, Next.js, TypeScript, Tailwind CSS |
 | 📊 **Data & Analytics** | Data Pipelines (ETL), Data Cleansing & Transformation, Aggregations, Redis Caching | Python, Pandas, NumPy, PostgreSQL, MongoDB, Redis |
 | 🐳 **DevOps & Infrastructure**| Containerization, Multi-stage Builds, CI/CD Automation, Environment Management | Docker, Docker Compose, Git Flow, GitHub Actions |
