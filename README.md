@@ -5,18 +5,24 @@
 
 <br/>
 
-<!-- Avatar aligned right + Title -->
-<img align="right" width="220" src="https://github.com/user-attachments/assets/3892a06c-ea22-4e72-b1a2-07bf0e64eacf" alt="Jos Avatar" style="margin-left: 20px; margin-bottom: 20px;" />
+<!-- Side-by-side Floated Images: Jos Avatar + ICEY Studio Logo + FPTU Logo -->
+<img align="right" width="170" src="https://github.com/user-attachments/assets/3892a06c-ea22-4e72-b1a2-07bf0e64eacf" alt="Jos Avatar" style="margin-left: 10px; margin-bottom: 15px;" />
+<img align="right" width="110" src="https://github.com/user-attachments/assets/b7a4f267-0bc1-453f-a7dc-fb7a1cfae300" alt="ICEY Studio Logo" style="border-radius: 12px; margin-left: 10px; margin-bottom: 15px;" />
+<img align="right" width="110" src="https://github.com/user-attachments/assets/1ce86e10-0d10-4b1e-a185-fc4429743e25" alt="FPT University Logo" style="border-radius: 12px; margin-left: 10px; margin-bottom: 15px;" />
 
 # 😎 I'M JOS!
 *“Optimizing your journey, Powering your life.”*
 
-<!-- Typing SVG with Game Dev included -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=38BDF8&lines=Full-Stack+%26+Data+Engineer;Game+Developer+(Unity+%E2%80%A2+Blender);Backend+%E2%80%A2+Frontend+%E2%80%A2+3D+AI+Asset;Building+Immersive+%26+High-Performance+Apps" alt="Typing Header" />
+🎓 **Software Engineering Student @ FPT University (FPTU)**  
+🚀 **Founder @ ICEY STUDIO**
+
+<!-- Typing SVG with FPTU & Game Dev included -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&pause=1000&color=38BDF8&lines=FPT+University+Software+Engineer;Full-Stack+%26+Data+Engineer;Game+Developer+(Unity+%E2%80%A2+Blender);Building+Scalable+%26+Immersive+Apps" alt="Typing Header" />
 
 <br/><br/>
 
 <p>
+  <img src="https://img.shields.io/badge/Education-FPT_University_(FPTU)-F26522?style=for-the-badge&logo=graduation-cap&logoColor=white" />
   <a href="https://monkz-dct.itch.io/night-mare"><img src="https://img.shields.io/badge/Itch.io-My_Games-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white" /></a>
   <a href="mailto:phucgammer012345@gmail.com"><img src="https://img.shields.io/badge/Email-phucgammer012345%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://facebook.com/jos.nguyen.329862"><img src="https://img.shields.io/badge/Facebook-Jos%20Nguyen-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
@@ -62,6 +68,7 @@
 
 | Domain | Core Focus & Solutions | Tech Highlights |
 | :--- | :--- | :--- |
+| 🎓 **Academic & Engineering** | Software Engineering Student @ FPTU, Clean Architecture, OOP & Design Patterns | C#, Java, Python, JavaScript/TypeScript |
 | 🎮 **Game Development & 3D** | Gameplay Mechanics, 3D Asset Pipeline, AI-Assisted 3D Modeling, Shader & Physics | Unity, C#, Blender, Meshy.ai |
 | ⚡ **Backend & Real-Time** | Microservices Architecture, RESTful APIs, WebSockets, JWT Security | Node.js, Spring Boot, Express, FastAPI, WebSockets |
 | 🎨 **Frontend & Modern UX** | Single Page Apps (SPA), State Management, Responsive UI, Performance Tuning | React, Next.js, TypeScript, Tailwind CSS |
@@ -74,11 +81,11 @@
 ### 🛡️ Software & Game Engineering Pillars
 
 <p align="center">
+  <img src="https://img.shields.io/badge/University-FPT_University_(FPTU)-F26522?style=for-the-badge&logo=graduation-cap&logoColor=white" />
   <img src="https://img.shields.io/badge/Game_Engine-Unity_C%23_%7C_Blender-FA5C5C?style=for-the-badge&logo=unity&logoColor=white" />
-  <img src="https://img.shields.io/badge/3D_AI_Pipeline-Meshy.ai_Generative-7C3AED?style=for-the-badge&logo=sparkles&logoColor=white" />
   <br/>
+  <img src="https://img.shields.io/badge/3D_AI_Pipeline-Meshy.ai_Generative-7C3AED?style=for-the-badge&logo=sparkles&logoColor=white" />
   <img src="https://img.shields.io/badge/Architecture-Clean_Code_%7C_SOLID-blue?style=for-the-badge&logo=codeforces&logoColor=white" />
-  <img src="https://img.shields.io/badge/Deployment-Dockerized_%7C_Itch.io_Release-purple?style=for-the-badge&logo=itchdotio&logoColor=white" />
 </p>
 
 ---
