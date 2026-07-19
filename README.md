@@ -5,10 +5,8 @@
 
 <br/>
 
-<!-- Side-by-side Floated Images: Jos Avatar + ICEY Studio Logo + FPTU Logo -->
-<img align="right" width="170" src="https://github.com/user-attachments/assets/3892a06c-ea22-4e72-b1a2-07bf0e64eacf" alt="Jos Avatar" style="margin-left: 10px; margin-bottom: 15px;" />
-<img align="right" width="110" src="https://github.com/user-attachments/assets/b7a4f267-0bc1-453f-a7dc-fb7a1cfae300" alt="ICEY Studio Logo" style="border-radius: 12px; margin-left: 10px; margin-bottom: 15px;" />
-<img align="right" width="110" src="https://github.com/user-attachments/assets/1ce86e10-0d10-4b1e-a185-fc4429743e25" alt="FPT University Logo" style="border-radius: 12px; margin-left: 10px; margin-bottom: 15px;" />
+<!-- Avatar aligned right (Original Dragon Avatar) -->
+<img align="right" width="220" src="https://github.com/user-attachments/assets/3892a06c-ea22-4e72-b1a2-07bf0e64eacf" alt="Jos Avatar" style="margin-left: 20px; margin-bottom: 20px;" />
 
 # 😎 I'M JOS!
 *“Optimizing your journey, Powering your life.”*
@@ -16,7 +14,7 @@
 🎓 **Software Engineering Student @ FPT University (FPTU)**  
 🚀 **Founder @ ICEY STUDIO**
 
-<!-- Typing SVG with FPTU & Game Dev included -->
+<!-- Typing SVG -->
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&pause=1000&color=38BDF8&lines=FPT+University+Software+Engineer;Full-Stack+%26+Data+Engineer;Game+Developer+(Unity+%E2%80%A2+Blender);Building+Scalable+%26+Immersive+Apps" alt="Typing Header" />
 
 <br/><br/>
@@ -26,10 +24,22 @@
   <a href="https://monkz-dct.itch.io/night-mare"><img src="https://img.shields.io/badge/Itch.io-My_Games-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white" /></a>
   <a href="mailto:phucgammer012345@gmail.com"><img src="https://img.shields.io/badge/Email-phucgammer012345%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://facebook.com/jos.nguyen.329862"><img src="https://img.shields.io/badge/Facebook-Jos%20Nguyen-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
-  <img src="https://img.shields.io/badge/Studio-ICEY%20STUDIO-111827?style=for-the-badge&logo=github&logoColor=white" />
 </p>
 
 <br clear="right" />
+
+---
+
+### 🏛️ Education & Studio (Học Vấn & Studio)
+
+<div align="center">
+
+| 🎓 FPT University (FPTU) | 🚀 ICEY STUDIO |
+| :---: | :---: |
+| <img width="360" src="https://github.com/user-attachments/assets/1ce86e10-0d10-4b1e-a185-fc4429743e25" alt="FPT University Campus" style="border-radius: 10px;" /> | <img width="240" src="https://github.com/user-attachments/assets/b7a4f267-0bc1-453f-a7dc-fb7a1cfae300" alt="ICEY Studio Logo" style="border-radius: 10px;" /> |
+| **Software Engineering Student** | **Indie Game & Software Studio** |
+
+</div>
 
 ---
 
