@@ -19,9 +19,9 @@
 
 Chào mừng bạn đến với không gian sáng tạo của tôi trên GitHub!
 
-Tôi là **Jos Nguyen** (alias `MinhPhuc00ne`), một Kỹ sư Phần mềm linh hoạt hoạt động trên các mảng **Backend**, **Frontend**, **Data Engineering & Analytics** cùng **DevOps**.
+Tôi là **Jos Nguyen** (alias `MinhPhuc00ne`), một Kỹ sư Phần mềm đa năng làm việc trên cả 3 mảng trọng yếu: **Backend Architecture**, **Frontend Modern UI**, và **Data Engineering & Analytics**.
 
-Tôi luôn tin rằng mỗi dòng code đều là một bước tiến trong hành trình tối ưu hóa trải nghiệm và giải quyết các bài toán thực tế. Dưới đây là thông tin chi tiết về lộ trình phát triển, các sản phẩm hoàn thiện cũng như bộ công nghệ mà tôi đang sử dụng và thử nghiệm!
+Tôi luôn hướng tới việc xây dựng các hệ thống **mở rộng tốt (scalable)**, **bảo mật cao (secure)** và **tối ưu trải nghiệm người dùng (high-performance UX)**.
 
 <br/>
 
@@ -84,36 +84,76 @@ Tôi luôn tin rằng mỗi dòng code đều là một bước tiến trong hà
 
 ---
 
-### 📌 Dự Án Tiêu Biểu (Featured Projects)
+### 🎯 Năng Lực Kỹ Thuật Trọng Tâm (Core Engineering Capabilities)
 
-| Tên Dự Án | Công Nghệ Sử Dụng | Mô Tả Ngắn | Trạng Thái |
-| :--- | :--- | :--- | :--- |
-| 🏇 **Horse Racing System** | React, Node.js / Express, PostgreSQL, WebSocket | Mô phỏng đua ngựa thời gian thực, hệ thống đặt cược khán giả, dashboard quản lý & tự động trả thưởng. | 🚀 Active |
-| 📊 **Data Analytics Platform** | Python, Pandas, Scikit-learn, FastAPI | Tự động thu thập, làm sạch dữ liệu, phân tích thống kê và hiển thị báo cáo trực quan. | 🛠️ In Progress |
-| 🌐 **Enterprise Full-Stack Suite** | React, Spring Boot, Microservices | Kiến trúc Multi-tenant linh hoạt, xác thực JWT, phân quyền RBAC & triển khai Docker. | 💡 Completed |
+<p align="left">
+  <img src="https://img.shields.io/badge/Backend_Architecture-API_Design_%7C_Microservices_%7C_Auth_JWT-blue?style=flat-square&logo=serverless" />
+  <img src="https://img.shields.io/badge/Frontend_Excellence-React_%7C_State_Management_%7C_WebSockets-green?style=flat-square&logo=react" />
+  <img src="https://img.shields.io/badge/Data_Engineering-ETL_Pipelines_%7C_SQL_Indexing_%7C_Pandas-orange?style=flat-square&logo=apachespark" />
+  <img src="https://img.shields.io/badge/DevOps_Readiness-Docker_%7C_CI/CD_%7C_Environment_Config-purple?style=flat-square&logo=docker" />
+</p>
+
+#### ⚡ 1. Kiến Trúc Backend & Xử Lý Hệ Thống (Backend & System Architecture)
+- **Thiết kế RESTful API & Microservices**: Đóng gói các module dịch vụ độc lập, sử dụng **Node.js/Express** hoặc **Java Spring Boot**, tích hợp Swagger/Postman cho API documentation.
+- **Xác thực & Bảo mật**: Xây dựng cơ chế **Authentication & Authorization** nâng cao với **JWT (JSON Web Token)**, **OAuth2**, phân quyền người dùng (RBAC) và mã hóa mật khẩu an toàn.
+- **Tối ưu hóa Cơ sở dữ liệu**: Thiết kế ERD chuẩn hóa (3NF), đánh chỉ mục (Index) trên **PostgreSQL/MySQL**, xử lý Caching với **Redis** giúp giảm tải truy vấn DB.
+- **Xử lý Thời gian thực (Real-time)**: Triển khai giao tiếp **WebSocket / Socket.io** cho các ứng dụng giao dịch, thông báo và mô phỏng tức thời.
+
+#### 🎨 2. Phát Triển Frontend & Trải Nghiệm Người Dùng (Modern Frontend & UX)
+- **Kiến trúc SPA/SSR hiện đại**: Sử dụng **React.js** và **Next.js** với thiết kế Component-based có khả năng tái sử dụng cao.
+- **Quản lý Trạng thái (State Management)**: Thành thạo Redux Toolkit / Context API giúp quản lý luồng dữ liệu phức tạp xuyên suốt ứng dụng.
+- **Thiết kế Giao diện chuẩn Responsive**: Áp dụng **Tailwind CSS**, **Bootstrap** và **CSS Grid/Flexbox** tương thích tốt trên mọi thiết bị (Desktop, Tablet, Mobile).
+- **Tối ưu Hiệu năng (Performance Tuning)**: Tối ưu hóa Code Splitting, Lazy Loading hình ảnh & tài nguyên giúp đạt điểm số cao trên Lighthouse.
+
+#### 📊 3. Kỹ Thuật Dữ Liệu & Phân Tích (Data Engineering & Science)
+- **Xây dựng Data Pipelines (ETL)**: Thu thập, làm sạch và biến đổi dữ liệu thô (Data Cleansing & Transformation) bằng **Python (Pandas, NumPy)**.
+- **Mô hình hóa & Lưu trữ Dữ liệu**: Thiết kế các mô hình kho dữ liệu (Relational DB & NoSQL MongoDB) phục vụ báo cáo và phân tích chuyên sâu.
+- **Truy vấn Dữ liệu Nâng cao**: Viết các câu lệnh SQL phức tạp (Window Functions, CTEs, Aggregations) để trích xuất Insight kinh doanh.
 
 ---
 
-### 📊 Thống Kê GitHub (GitHub Dynamic Analytics)
+### 🛡️ Chuẩn Mực Phát Triển Phần Mềm (Software Engineering Practices)
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MinhPhuc00ne&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MinhPhuc00ne&layout=compact&theme=tokyonight&hide=html,css" />
-</div>
+```
+┌─────────────────────────────────────────────────────────────────────────┐
+│                          MY DEVELOPMENT WORKFLOW                        │
+├──────────────────┬──────────────────┬──────────────────┬────────────────┤
+│   Clean Code     │    Git Flow      │   API-First      │   Security     │
+│   SOLID & DRY    │ Feature Branches │ Swagger/Postman  │ JWT & RBAC     │
+└──────────────────┴──────────────────┴──────────────────┴────────────────┘
+```
 
-<br />
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MinhPhuc00ne&theme=tokyonight" />
-</div>
+- **Clean Code & Design Patterns**: Áp dụng nguyên lý SOLID, DRY, KISS giúp mã nguồn dễ đọc, dễ duy trì và mở rộng.
+- **Quy trình Git Chuyên Nghiệp**: Quản lý source code theo Git Flow (Main, Develop, Feature branches), viết Commit Message chuẩn mực (Conventional Commits).
+- **Đóng gói Docker & Triển khai**: Containerize ứng dụng với `docker-compose` giúp môi trường phát triển nhất quán từ Local đến Production.
+- **Tư duy Giải quyết Bài toán (Problem Solving)**: Luôn tập trung vào bản chất bài toán kinh doanh để đưa ra giải pháp kỹ thuật tối ưu chi phí & thời gian nhất.
 
 ---
 
-### 💬 Trạng Thái & Lời Nhắn
+### 💡 Giá Trị Tôi Mang Đến Cho Đội Ngũ (What I Bring To Your Team)
 
-<blockquote>
-  ⚡ <b>Current Focus:</b> <i>Building robust backend architectures, dynamic frontend applications & scalable data pipelines!</i>
-</blockquote>
+1. **Khả năng làm việc End-to-End**: Độc lập xây dựng hoặc tham gia mọi công đoạn từ thiết kế CSDL, xử lý Logic Backend đến hoàn thiện Giao diện Frontend.
+2. **Tư duy Dữ liệu (Data-Driven Mindset)**: Không chỉ viết code chạy được, mà luôn quan tâm đến luồng dữ liệu, tính chính xác và khả năng phân tích báo cáo.
+3. **Khả năng Tự học & Thích nghi Nhanh**: Sẵn sàng tiếp cận và làm chủ các công nghệ / framework mới theo yêu cầu của dự án trong thời gian ngắn.
+4. **Tinh thần Trách nhiệm & Hợp tác**: Luôn chủ động giao tiếp, hỗ trợ đồng đội và tuân thủ chặt chẽ deadline dự án.
+
+---
+
+### 💬 Lời Nhắn & Liên Hệ (Contact & Hire Me)
+
+Nếu bạn đang tìm kiếm một **Full-Stack & Data Engineer** nhiệt huyết, có khả năng làm việc đa năng và sẵn sàng cống hiến cho các dự án thách thức, hãy liên hệ với tôi qua:
+
+<p align="left">
+  <a href="mailto:phucgammer012345@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://facebook.com/jos.nguyen.329862">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+  </a>
+  <a href="https://github.com/MinhPhuc00ne">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
 
 <br />
 
