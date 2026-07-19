@@ -69,17 +69,10 @@
 
 <div align="center">
 
-<p>
-  <a href="https://unity.com/"><img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white" alt="Unity" /></a>
-  <a href="https://www.blender.org/"><img src="https://img.shields.io/badge/Blender-E87D0D?style=for-the-badge&logo=blender&logoColor=white" alt="Blender" /></a>
-  <a href="https://docs.microsoft.com/en-us/dotnet/csharp/"><img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" /></a>
-  <a href="https://www.meshy.ai/"><img src="https://img.shields.io/badge/Meshy.ai_3D_AI-7C3AED?style=for-the-badge&logo=sparkles&logoColor=white" alt="Meshy.ai" /></a>
-</p>
-
 | Game Title | Platform / Stack | Status & Play Link |
 | :--- | :--- | :--- |
-| 👁️ **NIGHT MARE** | Unity, C#, Blender, 3D Assets | <a href="https://monkz-dct.itch.io/night-mare"><img src="https://img.shields.io/badge/Play_Now-Itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white" /></a> |
-| 🕹️ **Unannounced Title** | Unity, Meshy.ai (3D AI Generation), Blender | <img src="https://img.shields.io/badge/Status-In_Development_🛠️-F59E0B?style=for-the-badge" /> |
+| 👁️ **NIGHT MARE** | <img src="https://skillicons.dev/icons?i=unity,blender,cs" /> | <a href="https://monkz-dct.itch.io/night-mare"><img src="https://img.shields.io/badge/Play_Now-Itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white" /></a> |
+| 🕹️ **Unannounced Title** | <img src="https://skillicons.dev/icons?i=unity,blender" /> <img src="https://img.shields.io/badge/Meshy.ai-3D_AI_Assets-7C3AED?style=flat-square&logo=sparkles&logoColor=white" /> | <img src="https://img.shields.io/badge/Status-In_Development_🛠️-F59E0B?style=for-the-badge" /> |
 
 </div>
 
