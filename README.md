@@ -1,12 +1,31 @@
+```text
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@    minhphuc@fptu ---------------------------------------------
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@    . OS: ...................................... Windows 11, Linux
+@@@@@@@@@@@@@@@@@@%%##*++%@@@@%###    . Uptime: ........................... 20 years, 8 months, 6 days
+@@@@@@@@@@@@@@%#*+:.=+*+#@@%*=:::-    . Host: ............................. FPT University (FPTU)
+@@@@@@@@@@@%#*=:-+=+-%%#*#*+##*#%#    . Founder: .......................... ICEY STUDIO
+@@@@@@@%#*=--%%*#*#- *#*====-*#=#%    . Kernel: ........................... Software Engineering Student
+@@@@#=.    +%#**+. . +*%+*####*-==    . IDE: .............................. VS Code, Unity, Blender, IntelliJ
+@%=     :*%#*+++*       *#%%@%*##+    
+:     -%%**++++=.       =*--=+%%#*    . Languages.Programming: ............ C#, Java, Python, TypeScript, JavaScript
+     *%*+=++==+#=  ..:--   .:-*#%*    . Languages.Web/Backend: ............ React, Next.js, Node.js, Express, Spring Boot
+   --*==++====*%*=:..:     -+*  +*    . Languages.Game/3D: ................ Unity (C#), Blender, Shader & Physics
+  :%%##%%%%%+=+**- ..     .+==  :*    
+ .#%%#######=  ++. :.-=*####*=.-#*    . Hobbies.GameDev: .................. Indie Games, AI 3D Assets (Meshy.ai)
+-*++#%#%##+=- -##+++.:-+###*+=.---    . Hobbies.Architecture: ............. Clean Code, SOLID Principles
++*--#*+: -++*#+=+-+#*=:=*###*+-=::    
+*-  *##+=#+++=+++=*%@%##%#%%%#=+++    - Contact ------------------------------------------------------
++   -%+=+#%*==*#=++*###*#%%%%%#***    . Email: ............................ phucgammer012345@gmail.com
+.  ..*=.:+#%%=+#=%@%%#****#%%%@%%+    . Facebook: ......................... Jos Nguyen (jos.nguyen.329862)
+:===::%%%##%%#%%%@@@@@#*%#+=#@@%#=    . Itch.io: .......................... monkz-dct.itch.io/night-mare
+@@%%#=+%@#+*++%@@@@@@@@@@%##%%**#*    . GitHub: ........................... github.com/MinhPhuc00ne
+@@@@@@#*#=:::.-%@@@@@@@@@@@@@#*#%#    
+@@@@@@@%%++=*=*%@@@@@@@@@@@@@@@@@@    - GitHub Stats --------------------------------------------------
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@    . Repos: .... 8 | Stars: ........ -- | Followers: ...... 1
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@    . Commits: ............... 500+ | Status: .... In Development 🛠️
+```
+
 <div align="center">
-  <!-- Banner Image -->
-  <img width="100%" height="auto" alt="Banner" src="https://github.com/user-attachments/assets/b8e9145a-9677-46f0-8ea9-15f4f5ddadba" />
-</div>
-
-<br/>
-
-<!-- Avatar aligned right (Original Dragon Avatar) -->
-<img align="right" width="220" src="https://github.com/user-attachments/assets/3892a06c-ea22-4e72-b1a2-07bf0e64eacf" alt="Jos Avatar" style="margin-left: 20px; margin-bottom: 20px;" />
 
 # 😎 I'M JOS!
 *“Optimizing your journey, Powering your life.”*
@@ -26,7 +45,7 @@
   <a href="https://facebook.com/jos.nguyen.329862"><img src="https://img.shields.io/badge/Facebook-Jos%20Nguyen-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
 </p>
 
-<br clear="right" />
+</div>
 
 ---
 
