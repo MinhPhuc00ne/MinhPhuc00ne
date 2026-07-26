@@ -7,8 +7,8 @@
 ⠀⢰⣧⣤⣾⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣶⣶⣄⠀⠀⠀   . Kernel: ........................... Software Engineering Student
 ⠀⠘⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡿⠿⠿⢿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⡄⠀   . IDE: .............................. VS Code, Unity, Blender, IntelliJ
 ⢀⣴⣾⣿⣿⣿⣿⡿⠟⠿⠿⠿⠿⠛⣡⣶⣾⣷⣶⣌⣉⣋⣉⡙⠻⣿⣿⣿⣿⣿⣿⣿⠀
-⢸⣿⣿⣿⣿⣿⡟⢠⣿⣿⣶⣶⣾⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣧⠘⣿⣿⣿⣿⣿⣿⠅  . Languages.Programming: ............ C#, Java, Python, TypeScript, JavaScript
-⠈⢿⣿⣿⣟⠻⣧⠸⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡇⢹⣿⢋⢻⣿⠏⠀  . Languages.Web/Backend: ............ React, Next.js, Node.js, Express, Spring Boot
+⢸⣿⣿⣿⣿⣿⡟⢠⣿⣿⣶⣶⣾⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣧⠘⣿⣿⣿⣿⣿⣿⠅   . Languages.Programming: ............ C#, Java, Python, TypeScript, JavaScript
+⠈⢿⣿⣿⣟⠻⣧⠸⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡇⢹⣿⢋⢻⣿⠏⠀    . Languages.Web/Backend: ............ React, Next.js, Node.js, Express, Spring Boot
 ⠀⢰⣿⣿⣿⡄⣤⣥⣼⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣇⢸⣗⠸⢂⣿⠀⠀  . Languages.Game/3D: ................ Unity (C#), Blender, Shader & Physics
 ⠀⠈⢿⣿⣿⠁⣿⠟⠉⠁⠉⠉⠙⢿⣿⣿⣿⣿⡟⠉⢁⣀⣀⠈⠙⣿⣦⠹⣷⣿⡿⠀⠀
 ⠀⠀⠀⠹⡏⢸⣷⣾⣿⠿⠿⢿⣿⣿⣿⣿⣿⣿⣿⣿⠿⠟⠿⢿⣿⡏⡜⡆⡿⠿⠁⠀⠀  . Hobbies.GameDev: .................. Indie Games, AI 3D Assets (Meshy.ai)
@@ -20,8 +20,8 @@
 ⠀⠀⠀⠀⠀⠀⠀⠀⠻⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡿⠋⠀⠀⠀⠀⠀⠀⠀⠀  . Itch.io: .......................... monkz-dct.itch.io/night-mare
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠙⠿⣿⣿⣿⣿⣿⣿⣿⣿⡿⠟⠉⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀  . GitHub: ........................... github.com/MinhPhuc00ne
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠉⠙⠛⠛⠛⠋⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀  - GitHub Stats --------------------------------------------------
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀  . Repos: .... 8 | Stars: ........ -- | Followers: ...... 1
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀    - GitHub Stats --------------------------------------------------
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀    . Repos: .... 8 | Stars: ........ -- | Followers: ...... 1
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀  . Commits: ............... 500+ | Status: .... In Development 🛠️
 ```
 
