@@ -2,7 +2,7 @@
 
 <table>
 <tr>
-<td valign="top" align="center">
+<td valign="middle" align="center">
 
 ```text
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣠⣤⣦⣦⣤⣀⠀⠀⠀⢀⣀⣀⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀
@@ -27,33 +27,33 @@
 ```
 
 </td>
-<td valign="top" align="left">
+<td valign="middle" align="left">
 
 ```text
-minhphuc@fptu_________________________________________________
-. OS: ...................................... Windows 11, Linux
-. Uptime: ........................... 20 years, 8 months, 6 days
-. Host: ............................. FPT University (FPTU)
-. Founder: .......................... ICEY STUDIO
-. Kernel: ........................... Software Engineering Student
-. IDE: .............................. VS Code, Unity, Blender, IntelliJ
+minhphuc@fptu________________________________________________
+. OS: .................................... Windows 11, Linux
+. Uptime: ......................... 20 years, 8 months, 6 days
+. Host: ........................... FPT University (FPTU)
+. Founder: ........................ ICEY STUDIO
+. Kernel: ......................... Software Engineering Student
+. IDE: ............................ VS Code, Unity, Blender
 
-. Languages.Programming: ............ C#, Java, Python, TypeScript, JavaScript
-. Languages.Web/Backend: ............ React, Next.js, Node.js, Express, Spring Boot
-. Languages.Game/3D: ................ Unity (C#), Blender, Shader & Physics
+. Languages.Programming: .......... C#, Java, Python, TS, JS
+. Languages.Web/Backend: .......... React, Next.js, Node.js, Express
+. Languages.Game/3D: .............. Unity (C#), Blender, Shader & Physics
 
-. Hobbies.GameDev: .................. Indie Games, AI 3D Assets (Meshy.ai)
-. Hobbies.Architecture: ............. Clean Code, SOLID Principles
+. Hobbies.GameDev: ................ Indie Games, AI 3D Assets
+. Hobbies.Architecture: ........... Clean Code, SOLID Principles
 
-- Contact ------------------------------------------------------
-. Email: ............................ phucgammer012345@gmail.com
-. Facebook: ......................... Jos Nguyen (jos.nguyen.329862)
-. Itch.io: .......................... monkz-dct.itch.io/night-mare
-. GitHub: ........................... github.com/MinhPhuc00ne
+- Contact ----------------------------------------------------
+. Email: .......................... phucgammer012345@gmail.com
+. Facebook: ....................... Jos Nguyen (jos.nguyen.329862)
+. Itch.io: ........................ monkz-dct.itch.io/night-mare
+. GitHub: ......................... github.com/MinhPhuc00ne
 
-- GitHub Stats --------------------------------------------------
-. Repos: .... 8 | Stars: ........ -- | Followers: ...... 1
-. Commits: ............... 500+ | Status: .... In Development 🛠️
+- GitHub Stats ------------------------------------------------
+. Repos: .... 8 | Stars: ........ -- | Followers: .... 1
+. Commits: ............... 500+ | Status: .. In Development 🛠️
 ```
 
 </td>
